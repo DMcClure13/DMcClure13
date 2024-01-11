@@ -4,8 +4,9 @@
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 David.McClure@mcclures.net
 - https://www.hackerrank.com/David_McClure/hackos
+- Current CompTIA Linux+ 005 and CompTIA Security+ certificatesq
 
 <!---
-DMcClure13/DMcClure13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DMcClure13/DMcClure13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.q
 You can click the Preview link to take a look at your changes.
 --->
